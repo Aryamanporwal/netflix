@@ -1,2 +1,2 @@
 # netflix
-author -aryaman
+author -aryaman porwal
